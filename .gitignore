@@ -1,0 +1,12 @@
+Library/ 
+temp/ 
+obj/ 
+build/ 
+builds/ 
+Logs/ 
+MemoryCaptures/
+UserSettings/
+.utmp/
+.vs/
+/Assets/Terrain/Data/Default TerrainData.asset
+/Assets/Terrain/Data/Default TerrainData.asset.meta
