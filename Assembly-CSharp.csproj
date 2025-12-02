@@ -70,6 +70,8 @@
     <Compile Include="Assets\Scripts\MeshGenerator.cs" />
     <Compile Include="Assets\Scripts\Player\FPS\FPSPlayer.cs" />
     <Compile Include="Assets\Scripts\Functions\Functions.cs" />
+    <Compile Include="Assets\Scripts\Enemy\HummanoidEnemy.cs" />
+    <Compile Include="Assets\Scripts\Enemy\EnemyData.cs" />
     <Compile Include="Assets\Scripts\Player\EnemyFighter.cs" />
     <Compile Include="Assets\Scripts\TextureGenerator.cs" />
     <Compile Include="Assets\Scripts\MapDisplay.cs" />

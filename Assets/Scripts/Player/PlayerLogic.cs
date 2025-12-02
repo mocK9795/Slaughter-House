@@ -8,4 +8,10 @@ public class PlayerLogic : MonoBehaviour
 
     public float health;
     public float maxHealth;
+
+    public static PlayerLogic Instance;
+
+	private void Start() {
+		Instance = this;
+	}
 }
