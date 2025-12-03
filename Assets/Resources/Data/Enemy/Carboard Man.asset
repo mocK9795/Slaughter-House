@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Carboard Man
   m_EditorClassIdentifier: 
   attackDistance: 0
-  targetDistance: 5
+  targetDistance: 10
   moveAnimation: March
   idleAnimation: Halt
   attackAnimation: 
